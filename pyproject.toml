@@ -16,7 +16,7 @@ dependencies = [
     "pyyaml>=6.0.1",
     "backoff>=2.2.1",
     "tomli>=1.1.0; python_version < \"3.11\"",
-    "requests>=2.31.0",
+    "requests>=2.33.0",
 ]
 
 [dependency-groups]
